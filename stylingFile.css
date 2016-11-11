@@ -1,5 +1,40 @@
 .sign-log {
  width: 45%;
- height: 30%;
+ height: 250px;
  background-color: yellow;
+}
+
+.twitter {
+ border-radius: 15px;
+ background-color: blue;
+ display: inline;
+}
+
+.input {
+ width: 50%;
+}
+
+.fakeLink {
+ color: blue;
+ cursor: pointer;
+}
+
+body {
+ margin: 0px;
+}
+
+.moveLeft {
+ margin-right: 5%;
+}
+
+.fakeLink:hover {
+ text-decoration: underline;
+}
+
+.rightSignIn {
+ background-color: green;
+ width: 15%;
+ height: inherit;
+ position: absolute;
+ right: 25%;
 }
